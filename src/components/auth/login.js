@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import axios from "axios";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-//this is new
+
 export default class Login extends Component {
   constructor(props) {
     super(props);
